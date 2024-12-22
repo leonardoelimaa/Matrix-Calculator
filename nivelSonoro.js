@@ -84,7 +84,6 @@ Constants Used According to the International System of Units (With Rounding):`)
 
 console.log
 (`
-- CAT
 - π: 3.1415... (Rounded to 3)
 - Threshold of Hearing: 10⁻¹² W/m²
 - 1 cal = 4 J
